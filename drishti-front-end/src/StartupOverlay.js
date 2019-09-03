@@ -26,7 +26,7 @@ class StartupOverlay extends Component {
             drishti
           </div>
           <div style={styles.subText}>
-            predicts violence using information retrieval and machine learning
+            predicts violence using data mining and machine learning
           </div>
           <Segment inverted>
             <Button

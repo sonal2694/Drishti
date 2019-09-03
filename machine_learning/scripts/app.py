@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app)
 
 # constants
-GOOGLE_CREDENTIALS_SENTIMENT = '/Users/sonalsingh/Downloads/drishti-647851d80588.json'
+GOOGLE_CREDENTIALS_SENTIMENT = 'YOUR_GOOGLE_CREDENTIALS'
 
 
 @app.route("/")
