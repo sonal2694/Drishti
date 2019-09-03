@@ -1,0 +1,16 @@
+.isHovered {
+    background-color: white;
+}
+
+.isNotHovered {
+    background-color: black;
+}
+
+.tile {
+    width: 88%;
+    margin: 5%;
+    padding: 1%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}

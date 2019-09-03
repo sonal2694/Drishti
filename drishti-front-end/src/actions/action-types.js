@@ -1,0 +1,4 @@
+export const UPDATE_COUNTRY = "UPDATE_COUNTRY";
+export const UPDATE_PREDICTIONS = "UPDATE_PREDICTIONS";
+export const FOO_IT = "FOO_IT";
+

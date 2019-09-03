@@ -1,0 +1,29 @@
+import {FOO_IT, UPDATE_COUNTRY, UPDATE_PREDICTIONS} from "./action-types";
+
+const updateCountry = (payload) => {
+  console.log("payload");
+  console.log(payload);
+  return { type: UPDATE_COUNTRY, payload: payload };
+};
+
+const fooIt = (payload) => {
+  console.log("payload");
+  console.log(payload);
+  return { type: FOO_IT, payload: payload };
+};
+
+const updatePrediction = (payload) => {
+  console.log("payload");
+  console.log(payload);
+
+  return { type: UPDATE_PREDICTIONS, payload: payload };
+};
+
+const actions = {
+  updateCountry: updateCountry,
+  fooIt: fooIt
+};
+
+export default actions;
+
+
