@@ -8,9 +8,7 @@ import json
 RAW_NEWS_DIR = ""
 LOCATIONS = ""
 
-api_keys = ["7e8673f621404230be4db20a136034ed", "64f1f474922343df9c888309de31e524", "2e074101f45d4f3890e074e6412d945a",
-            "02367352fc644460891327a6cbb7e595", "334f0b6b14c048cb9bec97422acd35aa", "c3b5c481065b4fabab4948054b36a9f8",
-            "0ee1cde1d0b14901a07f1ea3d16e1ff4", "2f69d20cadbb40e6adb3de00308a9bad", "b722ed504c0345dc885cdc54b0b9cee4"]
+api_keys = []
 
 
 # decide api key
